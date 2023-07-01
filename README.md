@@ -20,8 +20,9 @@ The Library Management System aims to streamline the operations of a library by 
 1. Access to all features available to library staff and patrons.
 2. Monitor system activities and generate reports.
 3. Manage user accounts and access permissions.
+   
 **Stakeholders**
-The primary stakeholders of the Library Management System are:
+--- The primary stakeholders of the Library Management System are:
 
 **Library Staff**: Responsible for managing the library's collection and assisting patrons with borrowing and returning books.
 
