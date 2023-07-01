@@ -5,23 +5,23 @@ The Library Management System is a software application designed to help librari
 The Library Management System aims to streamline the operations of a library by providing a centralized platform for managing all aspects of the library's collection and services. It offers different access levels to accommodate library staff, patrons, and administrators.
 
 # Features
-**Library Staff**
+# Library Staff
 
 1. Add, update, and remove books from the library's collection.
 2. Mark books as available or unavailable for borrowing.
 3. Manage borrowing and returning of books for patrons.
-**Patrons**
+# Patrons
 
 1. Search for books based on titles, authors, genres, and more.
 2. Make reservations for books that are currently unavailable.
 3. View their borrowing history and due dates.
-**Administrators**
+# Administrators
 
 1. Access to all features available to library staff and patrons.
 2. Monitor system activities and generate reports.
 3. Manage user accounts and access permissions.
    
-**Stakeholders**
+# Stakeholders
 
 **The primary stakeholders of the Library Management System are:**
 
