@@ -7,21 +7,21 @@ The Library Management System aims to streamline the operations of a library by 
 # Features
 **Library Staff**
 
-Add, update, and remove books from the library's collection.
-Mark books as available or unavailable for borrowing.
-Manage borrowing and returning of books for patrons.
+1. Add, update, and remove books from the library's collection.
+2. Mark books as available or unavailable for borrowing.
+3. Manage borrowing and returning of books for patrons.
 **Patrons**
 
 1. Search for books based on titles, authors, genres, and more.
-Make reservations for books that are currently unavailable.
-View their borrowing history and due dates.
+2. Make reservations for books that are currently unavailable.
+3. View their borrowing history and due dates.
 **Administrators**
 
-Access to all features available to library staff and patrons.
-Monitor system activities and generate reports.
-Manage user accounts and access permissions.
+1. Access to all features available to library staff and patrons.
+2. Monitor system activities and generate reports.
+3. Manage user accounts and access permissions.
 **Stakeholders**
-# The primary stakeholders of the Library Management System are:
+The primary stakeholders of the Library Management System are:
 
 **Library Staff**: Responsible for managing the library's collection and assisting patrons with borrowing and returning books.
 
