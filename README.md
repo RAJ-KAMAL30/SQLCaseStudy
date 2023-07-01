@@ -45,7 +45,7 @@ The system's database consists of several tables to store essential information:
 # How to Run
 **To run the Library Management System**:
 
-1. Install MySQL and <a href="https://dev.mysql.com/downloads/workbench/">MySQL Workbench</a> on your computer.
+1. Install <a href="https://dev.mysql.com/downloads/installer/">MySQL</a> and <a href="https://dev.mysql.com/downloads/workbench/">MySQL Workbench</a> on your computer.
 
 2. Create the necessary database and tables using the provided SQL scripts.
 
