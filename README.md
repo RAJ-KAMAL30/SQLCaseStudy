@@ -3,7 +3,7 @@
 Welcome to the Health Database Management System (HealthDBMS) Database Setup README! In this document, you will find instructions for setting up the database to manage patient data for the healthcare organization.
 
 # Database Setup Tasks
-Your tasks involve creating the database, implementing data security measures, and ensuring its functionality. Follow the steps below to complete your tasks:
+Tasks involve creating the database, implementing data security measures, and ensuring its functionality. Follow the steps below to complete tasks:
 
 # Database Design: 
 Review the provided data model in the problem statement. Based on the model, design a detailed database schema that includes tables for Patient, Medical History, Lab Results, Prescriptions, and Outcome.
